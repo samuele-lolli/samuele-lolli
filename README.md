@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **exploring the latest advancements in AI, particularly in machine learning and large language models**
 
-- 👨‍💻 All of my projects are available at [My Website](https://samuele-lolli.vercel.app/#projects) or here [https://samuele-lolli.vercel.app/#projects](https://github.com/samuele-lolli)
+- 👨‍💻 All of my projects are available: [My Website](https://samuele-lolli.vercel.app/#projects) or [My GitHub](https://github.com/samuele-lolli)
 
 - 📝 I have a blog (soon) at [https://samuele-lolli.vercel.app/blog](https://samuele-lolli.vercel.app/blog)
 
