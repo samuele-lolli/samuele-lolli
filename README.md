@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuele-lolli&label=Profile%20views&color=0e75b6&style=flat" alt="samuele-lolli" /> </p>
 
-- 🔭 I’m currently working on **AI related projects**
+- 🔭 I’m currently **exploring the latest advancements in AI, particularly in machine learning and large language models**
 
-- 🌱 I’m currently learning **exploring the latest advancements in AI, particularly in machine learning and large language models**
+- 👨‍💻 All of my projects are available at [https://samuele-lolli.vercel.app/#projects](https://samuele-lolli.vercel.app/#projects) or in my github profile (here)
 
-- 👨‍💻 All of my projects are available at [https://samuele-lolli.vercel.app/#projects](https://samuele-lolli.vercel.app/#projects)
-
-- 📝 I regularly write articles on [https://samuele-lolli.vercel.app/blog](https://samuele-lolli.vercel.app/blog)
+- 📝 I have a personal blog (soon) on [https://samuele-lolli.vercel.app/blog](https://samuele-lolli.vercel.app/blog) (
 
 - 💬 Ask me about **Machine Learning/NLP/Web development things**
 
