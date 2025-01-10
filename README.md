@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**samuele-lolli/samuele-lolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samuele Lolli, a dedicated computer science student with a profound passion for artificial intelligence and software engineering. I thrive on exploring the latest advancements in AI, particularly in machine learning and large language models, and enjoy diving deep into their applications to solve real-world problems. My curiosity drives me to stay up-to-date with emerging technologies and innovative trends in the field.
 
-Here are some ideas to get you started:
+### 💻 Skills
+- **Machine Learning**
+- **Natural Language Processing (NLP)**
+- **Artificial Intelligence**
+- **Software Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/samuele-lolli/)
+- [Personal Website](https://samuele-lolli.vercel.app/)
+
+### 🌟 Projects
+- [Project 1](#)
+- [Project 2](#)
+
+### 🎨 Graphics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuele-lolli&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuele-lolli&layout=compact&theme=radical)
+
+Feel free to reach out or connect with me on any of the platforms above!
