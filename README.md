@@ -12,12 +12,6 @@ I'm Samuele Lolli, a dedicated computer science student with a profound passion 
 - [LinkedIn](https://www.linkedin.com/in/samuele-lolli/)
 - [Personal Website](https://samuele-lolli.vercel.app/)
 
-### 🌟 Projects
-- [Project 1](#)
-- [Project 2](#)
-
-### 🎨 Graphics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuele-lolli&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuele-lolli&layout=compact&theme=radical)
 
 Feel free to reach out or connect with me on any of the platforms above!
