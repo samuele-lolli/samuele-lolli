@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samuele-lolli.vercel.app/#projects](https://samuele-lolli.vercel.app/#projects) or in my github profile (here)
 
-- 📝 I have a personal blog (soon) on [https://samuele-lolli.vercel.app/blog](https://samuele-lolli.vercel.app/blog) (
+- 📝 I have a personal blog (soon) on [https://samuele-lolli.vercel.app/blog](https://samuele-lolli.vercel.app/blog) 
 
 - 💬 Ask me about **Machine Learning/NLP/Web development things**
 
