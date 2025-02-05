@@ -9,9 +9,7 @@
 
 - 📝 I have a blog (soon) at [https://samuele-lolli.vercel.app/blog](https://samuele-lolli.vercel.app/blog)
 
-- 💬 Ask me about **Machine Learning/NLP/Web development things**
-
-- 📫 How to reach me **samuelelolli194@gmail.com**
+- 📫 How to reach me **samuelelollipvt@gmail.com**
 
 - 📄 Know about my formation and experiences [https://samuele-lolli.vercel.app/cv.pdf](https://samuele-lolli.vercel.app/cv.pdf)
 
